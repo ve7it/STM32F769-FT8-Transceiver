@@ -1,5 +1,8 @@
 
 Project Motivation, Attribution and Other Thoughts December 2019
+
+
+
 For the past ten years after retiring I have had a lot of fun building ham radio projects which utilize microprocessors to perform DSP for SDR radios.  Past projects include the SDR2GO, STM32_SDR and STM32F746_SDR. As part of the  STM32F746_SDR project I included a Beaconing feature that uses a GPS receiver to periodically send a PSK call along with location latitude and longitude. Over time I noticed that the number of stations monitoring PSK traffic using PSK Reporter has significantly dwindled due to rise in popularity of FT8 operation.
 So, during the Summer of 2019 I started a quest to do FT8 on a STM746 Disco board. This did not turn out well due to my code using more RAM than is easily available on the STM746 Disco Board. I gave up several times in frustration.
 In one of my restarts of this project I came across the work done by Karlis Goba which you may review on this website: https://github.com/kgoba/ft8_lib . Karlis is a ham, YL3JG.
