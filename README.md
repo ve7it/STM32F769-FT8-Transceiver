@@ -1,7 +1,3 @@
-![GitHub BigView](/images/BigView.jpg)
-Format: ![Alt Text](url)
-
-
 
 
 Project Motivation, Attribution and Other Thoughts December 2019
