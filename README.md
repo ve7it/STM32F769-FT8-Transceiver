@@ -1,5 +1,5 @@
-![GitHub BigView](/images/BigView.jpg)
-Format: ![Alt Text](url)
+
+![Screenshot](BigView.jpg)
 
 Project Motivation, Attribution and Other Thoughts December 2019
 
