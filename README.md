@@ -1,3 +1,20 @@
+Copyright (C) 2019, Charles Hill
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+
 
 ![Screenshot](BigView.jpg)
 
@@ -7,7 +24,7 @@ For the past ten years after retiring I have had a lot of fun building ham radio
 
 So, during the Summer of 2019 I started a quest to do FT8 on a STM746 Disco board. This did not turn out well due to my code using more RAM than is easily available on the STM746 Disco Board. I gave up several times in frustration.
 
-In one of my restarts of this project I came across the work done by Karlis Goba which you may review on this website: https://github.com/kgoba/ft8_lib . Karlis is a ham, YL3JG. And, I decided to port my previous FT8 work over to the STM769 Disco board which has a lot more RAM than the STM746 Board. ShaZam  I finally got the FT8 stuff to work! Not only does iit work, it works well due to the great work done by Karlis. I have had several email exchanges with Karlis and he has been most helpful and supportive in my effort to produce another DSP project.
+In one of my restarts of this project I came across the work done by Karlis Goba which you may review on this website: https://github.com/kgoba/ft8_lib . Karlis is a ham, YL3JG. And, I decided to port my previous FT8 work over to the STM769 Disco board which has a lot more RAM than the STM746 Board. Sha Zam, I finally got the FT8 stuff to work! Not only does iit work, it works well due to the great work done by Karlis. I have had several email exchanges with Karlis and he has been most helpful and supportive in my effort to produce another DSP project.
 
 At, present the operating mode of the application is quite limited. However, as I learn more about FT8 operations and experiment with the code I will probably add additional operation modes and features.
 
